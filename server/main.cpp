@@ -1,6 +1,8 @@
-#include <iostream>
-using namespace std;
+#define _CRT_SECURE_NO_WARNINGS
+#include "Server.h"
 
 int main() {
-	cout << "test\n";
+	Server s;
+	s.run();
 }
+

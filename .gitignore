@@ -400,3 +400,7 @@ FodyWeavers.xsd
 *.vcxproj.*
 *.vcxproj
 *.sln
+*.txt
+*.png
+*.jpg
+icons/
