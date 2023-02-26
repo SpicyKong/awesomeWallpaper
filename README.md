@@ -1,6 +1,6 @@
 # 1. 어떤 프로젝트?
  [월페이퍼 엔진](https://store.steampowered.com/app/431960/Wallpaper_Engine/?l=koreana) 이라는 응용프로그램을 활용한 간단한 프로젝트입니다. 아래와 같은 바탕화면을 만들 수 있습니다.
- 
+ ![tmp](https://user-images.githubusercontent.com/37260182/221403211-1a1ef8e6-172f-4506-8881-8d90500be191.gif)
 # 2. 어떻게 동작?
 역할은 크게 클라이언트와 서버로 나뉘어 동작합니다.
 
